@@ -5,7 +5,7 @@ function Contact() {
     <div className="bg-gray-300">
       <div className="max-w-[88%] mx-auto">
         <section>
-          <div className="pb-10 pt-40 max-w-[400px]  min-h-[180px] mx-auto ">
+          <div id="contact" className="pb-10 pt-40 max-w-[400px]  min-h-[180px] mx-auto ">
             <h1 className="  tracking-widest pt-6 pb-6 border-8 border-black  text-center font-bold text-5xl ">
               CONTACT
             </h1>

@@ -26,14 +26,14 @@ function Header() {
                   <Link href="/about">about me</Link>
                 </li>
                 <li className="text-white">
-                  <Link href="/">Skills</Link>
+                  <Link href="/skills">Skills</Link>
                 </li>
                 <li className="text-white">
-                  <Link href="/">Project</Link>
+                  <Link href="/project">project</Link>
                 </li>
                 <li>
                   <Link
-                    href="/"
+                    href="/contact"
                     className="bg-white pt-2 pb-2 px-2 rounded-3xl"
                   >
                     Contact Me
