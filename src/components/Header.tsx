@@ -7,7 +7,6 @@ import CloseIcon from "@mui/icons-material/Close";
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
-  const [activeSection, setActiveSection] = useState<string | null>(null);
   const handleMenu = () => {
     setIsOpen(!isOpen);
   };
