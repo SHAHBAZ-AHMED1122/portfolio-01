@@ -8,7 +8,6 @@ import {
   CarouselItem
 } from "@/components/ui/carousel"
 import Image from "next/image"
-import { Link } from "lucide-react"
 
 const imgData = [
   '/hackhathon.png',
