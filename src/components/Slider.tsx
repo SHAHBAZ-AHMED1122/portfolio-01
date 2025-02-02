@@ -1,5 +1,6 @@
 import * as React from "react"
 
+
 import { Card, CardContent } from "@/components/ui/card"
 import {
   Carousel,
@@ -7,14 +8,16 @@ import {
   CarouselItem
 } from "@/components/ui/carousel"
 import Image from "next/image"
+import { Link } from "lucide-react"
 
 const imgData = [
-    '/p1.png',
-    '/p2.png',
+  '/hackhathon.png',
+  '/p5.png',
+  '/p6.png',
+  '/p1.png',
+  '/p2.png',
     '/p3.png',
     '/p4.png',
-    '/p5.png',
-    '/p6.png',
 ]
 
 export function CarouselSize() {
